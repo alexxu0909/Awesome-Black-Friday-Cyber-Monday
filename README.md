@@ -494,6 +494,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📜 | [Uncody](https://uncody.com/?utm_source=tonybfdeal) | AI Landing page builder that helps you get leads, newsletter signups | Get 50% off on yearly plans - **BLACKFRIDAY50** |
 | 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 | 🧽 | [RemoveMark](https://removemark.io/?utm=tonybf) | Remove text watermarks and handwriting from images, and remove watermarks from videos with AI. |Get 40% off on all plans - **REMOVEMARK40** |
+| 🎬 | [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=awesome-bf&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance. Turn text, images or a product link into videos. | **25% OFF** the first year of yearly plans, Nov 20 – Dec 1 (code shown on the deal page) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
